@@ -96,10 +96,10 @@ The CNN model was evaluated on four tumor types: *No Tumor, Glioma, Meningioma, 
 ![image](https://github.com/user-attachments/assets/f54a6368-81d2-49a6-a5c9-af7a461bb01d)
 
 **🔹 Training/Validation Accuracy & Loss Curves**
-
 ![image](https://github.com/user-attachments/assets/af13b3a4-7aec-4f73-ab28-ba7dbc08b075)
 
 **🔹 Predictions**
+
 ![image](https://github.com/user-attachments/assets/dfaab99c-0861-4ef6-8ddb-d26fc52b507b)
 ![image](https://github.com/user-attachments/assets/947afd76-7fae-41c1-b5ba-d38a6f7332a7)
 ![image](https://github.com/user-attachments/assets/41511a06-35ec-43a8-82c2-8367ccab9fd4)
