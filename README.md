@@ -76,6 +76,7 @@ The U-Net model was evaluated using the following metrics:
 | Val Accuracy     | 0.99   |
 
 **🔹 Visual Output Example**  
+
 ![image](https://github.com/user-attachments/assets/0d66825d-f73f-41e4-9eff-053c77ae3cfe)
 
 ---
@@ -93,9 +94,11 @@ The CNN model was evaluated on four tumor types: *No Tumor, Glioma, Meningioma, 
 ![image](https://github.com/user-attachments/assets/042d688c-6324-4efa-a12e-dc038976512c)
 
 **🔹 Confusion Matrix**
+
 ![image](https://github.com/user-attachments/assets/f54a6368-81d2-49a6-a5c9-af7a461bb01d)
 
 **🔹 Training/Validation Accuracy & Loss Curves**
+
 ![image](https://github.com/user-attachments/assets/af13b3a4-7aec-4f73-ab28-ba7dbc08b075)
 
 **🔹 Predictions**
